@@ -1,6 +1,5 @@
 ## What is it?
 <p>This project is a Hot Tile app made in Kivy(multiplatform, naturaly resizable framework for Python)</p>
-<p>Video of this project: </p>
 
 ## How does it work?
 <p>It is a really simple game. The player clicks on a tile and the text on the tile will show him the current distance of the tile to the winning tile.</p>
