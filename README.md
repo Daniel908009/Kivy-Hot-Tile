@@ -3,7 +3,7 @@
 
 ## How does it work?
 <p>It is a really simple game. The player clicks on a tile and the text on the tile will show him the current distance of the tile to the winning tile.</p>
-<p>It isnt simple though, as the tile moves one place in a random direction (diagonals included) after each guess.</p>
+<p>It isnt simple though, as the winning tile moves one place in a random direction (diagonals included) after each guess.</p>
 <p>The number of guesses depends on the size of the game grid.</p>
 
 ## Features
